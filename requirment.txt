@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+streamlit-pdf-viewer
+pandas
+streamlit-gsheets
+st-social-media-links
+streamlit-clickable-images
